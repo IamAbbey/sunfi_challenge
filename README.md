@@ -1,6 +1,6 @@
 ## Project: Sunfi Challenge
 
-### Local Setup
+### Setup
 - To begin, clone this repository `git clone `
 - Without Docker
   - Run makemigrations with `python manage.py makemigration`
