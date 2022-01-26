@@ -44,7 +44,14 @@ $ isort .
     - Get list of users
     - Favorite a character
     - Favorite a character's quote
-  
+
+### Suggestions
+- character id to be added as favorite ought to be passed in as a request body
+
+- character_id and quote_id to be added as favorite ought to be passed in as a request body
+![Engineering-Backend-Opportunities-Instruction](https://user-images.githubusercontent.com/61361540/151218852-b99a0249-6149-43a1-bbca-860e1d2fe411.png)
+
+
 Mentions
 =======
 
